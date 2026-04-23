@@ -1,14 +1,15 @@
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Abdulsamet%20-%20Full%20Stack%20Developer&fontSize=30&fontColor=ffffff" />
-</p>
-# 👋 Hi, I'm Abdulsamet
 
+# 👋 Hi, I'm Abdulsamet
+<p align="center">
+  <img src="banner.png" alt="Abdul Samed Özmen Banner" />
+</p>
 💻 Computer Engineering Student  
 🌍 Interested in Web Development & Backend  
 🚀 Currently learning ASP.NET Core & JavaScript  
 
 ---
+
 
 ## 🧠 About Me
 
@@ -18,7 +19,24 @@
 - 💡 Focused on building real-world projects
 
 ---
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdulsamet16&show_icons=true&theme=tokyonight" />
+</p>
+---
+## 🔥 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulsamet16&theme=react-dark" />
+</p>
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulsamet16&layout=compact&theme=tokyonight" />
+</p>
 ## 🛠️ Tech Stack
 
 - HTML / CSS / JavaScript
