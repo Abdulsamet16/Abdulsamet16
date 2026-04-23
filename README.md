@@ -1,3 +1,7 @@
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Abdulsamet%20-%20Full%20Stack%20Developer&fontSize=30&fontColor=ffffff" />
+</p>
 # 👋 Hi, I'm Abdulsamet
 
 💻 Computer Engineering Student  
